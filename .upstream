@@ -1,0 +1,5 @@
+{
+    "name": "dtolnay",
+    "fetch": "https://github.com/dtolnay/prettyplease",
+    "revision": "refs/heads/master"
+}
